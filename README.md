@@ -2,6 +2,10 @@
 
 VNS-OCR is a desktop application developed using the Python tkinter library, which utilizes the VisualNovelSubs (VNS) module to extract text from a video gameplay of a visual novel using Optical Character Recognition (OCR). This application simplifies the process of subtitle generation from visual novel videos.
 
+**Prerequisites:** Prior to using this program, you need to have Tesseract installed in the default path.
+
+**Link to Tesseract Installer for Windows:** [Tesseract Installer](https://github.com/UB-Mannheim/tesseract/wiki)
+
 ## Usage Instructions
 
 The VNS-OCR application is used as follows:
